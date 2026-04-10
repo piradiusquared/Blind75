@@ -16,5 +16,7 @@ public:
 int main() {
     Solution solution;
     vector<int> nums = {1, 2, 4, 4};
-    return solution.hasDuplicate(nums);
+    cout << "Hello world!" << "\n";
+    cout << solution.hasDuplicate(nums) << "\n";
+    return (0);
 }
