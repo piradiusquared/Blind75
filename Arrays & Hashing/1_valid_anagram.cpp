@@ -33,7 +33,5 @@ int main() {
 
     cout << solution.isAnagram(s, t);
 
-
-
     return (0);
 }
